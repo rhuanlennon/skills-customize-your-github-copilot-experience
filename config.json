@@ -6,6 +6,25 @@
   },
   "assignments": [
     {
+      "id": "fastapi-rest-api",
+      "title": "API REST com FastAPI",
+      "description": "Desenvolvimento de uma API REST usando FastAPI com operações CRUD, validação e testes",
+      "path": "assignments/fastapi-rest-api",
+      "dueDate": "2025-11-05",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Test Suite",
+          "file": "test_api.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
       "id": "python-basics",
       "title": "Python Basics",
       "description": "Variables, data types, conditionals, and loops",

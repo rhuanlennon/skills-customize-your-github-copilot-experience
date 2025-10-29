@@ -1,33 +1,23 @@
-# 📘 Assignment: [Assignment Title]
+# Diretrizes de Estrutura Markdown para Tarefas
 
-## 🎯 Objective
+Todos os arquivos markdown de tarefas devem seguir estas diretrizes:
 
-[Brief description of what the student will build or accomplish in this assignment]
+## 1. Uso de Template
 
-## 📝 Tasks
+- Arquivos markdown de tarefas devem seguir a estrutura em [`templates/assignment-template.md`](../../templates/assignment-template.md).
+- A tarefa deve ser criada como um arquivo `README.md`
+- Não remova ou pule seções obrigatórias do template.
 
-### 🛠️	[Task 1 Title]
+## 2. Orientação de Seções
 
-#### Description
-[Description what needs to be done by the student for this task]
+Os cabeçalhos das seções devem refletir a estrutura no template, incluindo o uso exato de ícones.
 
-#### Requirements
-Completed program should:
+- **Título**: Substitua `[Assignment Title]` com um nome curto e descritivo (ex: `Python Básico`, `Loops e Condicionais`, `Funções e Módulos`).
+- **Objetivo**: Escreva 1-2 frases resumindo o que o estudante aprenderá ou realizará. Foque nas principais habilidades ou conceitos.
+- **Tarefas**: Para cada tarefa:
+   - Use um nome de tarefa específico e orientado à ação
+   - Na Descrição, declare claramente o que o estudante deve fazer.
+   - Nos Requisitos, use pontos para listar os resultados ou recursos esperados. Seja específico e mensurável
+   - Forneça exemplo de entrada/saída em blocos de código se útil.
 
-- [Requirement 1]
-- [Requirement 2]
-- [Requirement 3]
-
-
-### 🛠️	[Task 2 Title]
-
-#### Description
-[Description what needs to be done by the student for this task]
-
-#### Requirements
-Completed program should:
-
-- [Requirement 1]
-- [Requirement 2]
-- [Requirement 3]
-
+Não inclua seções extras a menos que explicitamente especificado.
